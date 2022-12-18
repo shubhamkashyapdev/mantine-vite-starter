@@ -1,3 +1,4 @@
 *.css
 *.svg
 src/*.test.ts
+vite.config.ts
